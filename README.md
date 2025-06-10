@@ -29,9 +29,4 @@ Modern software is fast, efficient — but rarely *aware* of its **environmental
 - Clean and responsive web UI
 - Open-source and easily extensible
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/system-monitor-co2.git
-cd system-monitor-co2
+![SS.](https://raw.githubusercontent.com/sinanyuzgulec/Live-Linux-System-Resource-Emission-Monitor/refs/heads/main/img/ss.png)
