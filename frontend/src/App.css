@@ -31,3 +31,19 @@ th {
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+.signature {
+  font-size: 14px;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.signature a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.signature a:hover {
+  text-decoration: underline;
+}
